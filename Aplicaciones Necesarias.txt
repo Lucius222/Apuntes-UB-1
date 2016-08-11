@@ -1,2 +1,6 @@
 Git (necesito GitBash)
 Node JS
+Ionic
+Sublime Text 
+Para Windows: Sdk android
+Sdk iOs
